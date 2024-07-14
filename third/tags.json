@@ -1,0 +1,42 @@
+{
+  "name": "research",
+  "children": [
+    {
+      "name": "science",
+      "children": [
+        {
+          "name": "physics",
+          "children": [
+            {
+              "name": "relativity",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "chemistry",
+          "children": [
+            {
+              "name": "organic_chemistry",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "social_sciences",
+      "children": [
+        {
+          "name": "psychology",
+          "children": [
+            {
+              "name": "clinical_psychology",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
